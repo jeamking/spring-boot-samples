@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("demo")
 public class IndexController {
     @Autowired
     private DemoService demoService;
@@ -17,4 +16,9 @@ public class IndexController {
     public String test() {
         return demoService.test();
     }
+    
+    @RequestMapping("/")
+    public String hello(){
+        return "Greetings from Spring Boot!";
+    }    
 }
