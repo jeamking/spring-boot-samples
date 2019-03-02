@@ -1,0 +1,28 @@
+02-03-2019 21:01:16.773 [main] INFO  com.lankydan.Application.logStarting - Starting Application on 2013-20160816MD with PID 10172 (E:\githubWorkspace\spring-boot-samples\springboot-logback\target\classes started by Administrator in E:\githubWorkspace\spring-boot-samples\springboot-logback)
+02-03-2019 21:01:16.789 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following profiles are active: dev
+02-03-2019 21:01:20.502 [main] INFO  com.lankydan.Application.logStarted - Started Application in 5.617 seconds (JVM running for 7.079)
+02-03-2019 21:01:20.502 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - doStuff needed to debug - value
+02-03-2019 21:01:20.502 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - doStuff took input - value
+02-03-2019 21:01:20.502 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - doStuff needed to warn - value
+02-03-2019 21:01:20.502 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - doStuff encountered an error with value - value
+2019-03-02 21:10:31.575 [main] INFO  com.lankydan.Application - Starting Application on 2013-20160816MD with PID 5104 (E:\githubWorkspace\spring-boot-samples\springboot-logback\target\classes started by Administrator in E:\githubWorkspace\spring-boot-samples\springboot-logback)
+2019-03-02 21:10:31.591 [main] INFO  com.lankydan.Application - The following profiles are active: dev
+2019-03-02 21:10:33.900 [main] INFO  com.lankydan.Application - Started Application in 3.714 seconds (JVM running for 5.528)
+2019-03-02 21:10:33.900 [main] DEBUG com.lankydan.service.MyServiceImpl - doStuff needed to debug - value
+2019-03-02 21:10:33.900 [main] INFO  com.lankydan.service.MyServiceImpl - doStuff took input - value
+2019-03-02 21:10:33.900 [main] WARN  com.lankydan.service.MyServiceImpl - doStuff needed to warn - value
+2019-03-02 21:10:33.900 [main] ERROR com.lankydan.service.MyServiceImpl - doStuff encountered an error with value - value
+2019-03-02 21:12:05.775 [main] [INFO ] com.lankydan.Application - Starting Application on 2013-20160816MD with PID 8180 (E:\githubWorkspace\spring-boot-samples\springboot-logback\target\classes started by Administrator in E:\githubWorkspace\spring-boot-samples\springboot-logback)
+2019-03-02 21:12:05.791 [main] [INFO ] com.lankydan.Application - The following profiles are active: dev
+2019-03-02 21:12:07.990 [main] [INFO ] com.lankydan.Application - Started Application in 3.605 seconds (JVM running for 5.29)
+2019-03-02 21:12:07.990 [main] [DEBUG] com.lankydan.service.MyServiceImpl - doStuff needed to debug - value
+2019-03-02 21:12:07.990 [main] [INFO ] com.lankydan.service.MyServiceImpl - doStuff took input - value
+2019-03-02 21:12:07.990 [main] [WARN ] com.lankydan.service.MyServiceImpl - doStuff needed to warn - value
+2019-03-02 21:12:07.990 [main] [ERROR] com.lankydan.service.MyServiceImpl - doStuff encountered an error with value - value
+2019-03-02 21:13:45.247 [main] [INFO ] com.lankydan.Application - Starting Application on 2013-20160816MD with PID 5472 (E:\githubWorkspace\spring-boot-samples\springboot-logback\target\classes started by Administrator in E:\githubWorkspace\spring-boot-samples\springboot-logback)
+2019-03-02 21:13:45.263 [main] [INFO ] com.lankydan.Application - The following profiles are active: dev
+2019-03-02 21:13:47.525 [main] [INFO ] com.lankydan.Application - Started Application in 3.807 seconds (JVM running for 5.499)
+2019-03-02 21:13:47.525 [main] [DEBUG] com.lankydan.service.MyServiceImpl - doStuff needed to debug - value
+2019-03-02 21:13:47.525 [main] [INFO ] com.lankydan.service.MyServiceImpl - doStuff took input - value
+2019-03-02 21:13:47.525 [main] [WARN ] com.lankydan.service.MyServiceImpl - doStuff needed to warn - value
+2019-03-02 21:13:47.525 [main] [ERROR] com.lankydan.service.MyServiceImpl - doStuff encountered an error with value - value
